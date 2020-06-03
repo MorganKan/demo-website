@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    background-image:url('img/yellowtile.jpg');
+    background-color:black;
+}
+
+h1 {
+    text-align:center;
+    color:red;
+    
+}
+
+a{
+    margin-top:50px;
+    margin-left:640px;
+    border:10px solid blue;
+    border-radius:8px;
+    background-color:blue;
+    color:white;
+    text-decoration:none;
+    text-align:center;
+}
+
+img{
+    
+    padding-top:100px;
+   
+    
+   margin-left:560px;
+}
+p{
+    padding:0px;
+    margin:0px;
+    font-size:24px;
+    text-align:center;
+}
+
+span{
+    font-size:96px;
+    font-family: 'Anton', sans-serif;
+}
